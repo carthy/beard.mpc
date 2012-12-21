@@ -1,0 +1,11 @@
+*.lo
+/tests/
+config.*
+Makefile
+.libs
+*.tmp
+lex.yy.c
+
+libtool
+src/libmpc.la
+stamp-h1
