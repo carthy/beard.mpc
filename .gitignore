@@ -1,11 +1,12 @@
 *.lo
-/tests/
-config.*
 Makefile
+config.h
+config.log
+config.status
 .libs
-*.tmp
-lex.yy.c
+autom4te.cache
 
+doc/mpc.info
 libtool
 src/libmpc.la
 stamp-h1
